@@ -21,14 +21,3 @@ The AI for Detecting Insider Threats Project uses machine learning to identify s
 7. Report
 
 
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: +91 9310631437 (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 💻 Youtube Channel: [Link](https://www.youtube.com/@computerscienceproject)
